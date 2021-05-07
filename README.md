@@ -7,3 +7,5 @@ A list of interesting problems and solutions
 * [Path with maximum gold](https://leetcode.com/problems/path-with-maximum-gold/): maximum-gold-path.py - A good example for backtracking/dfs based approach with no possibility of DP/caching
 
 * [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix): longest-increasing-path.py - A tough example of dfs like problem but whose property can be exploited to allow caching/DP
+
+* [Subset Sum/Knapsack](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/): subset-sum-problem.py - Covers subset sum, checking if change assuming an unlimited supply of coins, and finally the 0-1 knapsack problem
