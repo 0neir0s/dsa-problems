@@ -9,3 +9,5 @@ A list of interesting problems and solutions
 * [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix): longest-increasing-path.py - A tough example of dfs like problem but whose property can be exploited to allow caching/DP
 
 * [Subset Sum/Knapsack](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/): subset-sum-problem.py - Covers subset sum, checking if change assuming an unlimited supply of coins, and finally the 0-1 knapsack problem
+
+* [Peak Element/Next larger element to right](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/): peak-element-next-larger-right.py - Covers next larger/smaller elements to the left/right as well as 1D and 2D peak element finder (binary search like)
