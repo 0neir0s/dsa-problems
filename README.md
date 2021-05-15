@@ -11,3 +11,5 @@ A list of interesting problems and solutions
 * [Subset Sum/Knapsack](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/): subset-sum-problem.py - Covers subset sum, checking if change assuming an unlimited supply of coins, and finally the 0-1 knapsack problem
 
 * [Peak Element/Next larger element to right](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/): peak-element-next-larger-right.py - Covers next larger/smaller elements to the left/right as well as 1D and 2D peak element finder (binary search like)
+
+* [Cycles and Topological Sort](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/): detect-cycles.py - Tries out cycle detection in directed and undirected graphs as well as topological sorting
