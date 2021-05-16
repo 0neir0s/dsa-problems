@@ -13,3 +13,5 @@ A list of interesting problems and solutions
 * [Peak Element/Next larger element to right](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/): peak-element-next-larger-right.py - Covers next larger/smaller elements to the left/right as well as 1D and 2D peak element finder (binary search like)
 
 * [Cycles and Topological Sort](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/): detect-cycles.py - Tries out cycle detection in directed and undirected graphs as well as topological sorting
+
+* [Next permutation](https://www.geeksforgeeks.org/print-distinct-sorted-permutations-with-duplicates-allowed/): next-permutation.py - Finding the next permutation given a permutation. 
