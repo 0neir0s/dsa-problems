@@ -15,3 +15,7 @@ A list of interesting problems and solutions
 * [Cycles and Topological Sort](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/): detect-cycles.py - Tries out cycle detection in directed and undirected graphs as well as topological sorting
 
 * [Next permutation](https://www.geeksforgeeks.org/print-distinct-sorted-permutations-with-duplicates-allowed/): next-permutation.py - Finding the next permutation given a permutation. 
+
+* [Maximum XOR/AND](https://www.geeksforgeeks.org/maximum-value-pair-array/): maximum-xor-and.py - Greedy and optimum approaches to finding maximum and, xor pairs in an array
+
+* [Binary search tree](https://bradfieldcs.com/algos/trees/binary-search-trees/): binary-search-tree.py - Standard functions of the binary search tree
