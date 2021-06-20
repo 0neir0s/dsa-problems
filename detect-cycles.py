@@ -137,7 +137,9 @@ print(allTopologies({0:[], 1:[], 2:[3], 3:[1], 4:[0,1], 5:[0,2]}))
 #-----------------------------------------------------------------------
 
 def dijkstras(graph, source):
-    distances = {vertex: inf for vertex in graph}
+    """ Time: O(V + ElogE)
+        Space: O(E) """
+    distances = defaultdict(lambda : inf}
     distances[source] = 0
     pq = [(0, source)] 
     while len(pq) > 0:
@@ -147,8 +149,8 @@ def dijkstras(graph, source):
         for neighbor, weight in graph[vertex].items():
             nDistance = distance + weight
             if nDistance < distances[neighbor]:
-                distances[neighbor] = distance
-                heappush(pq, (distance, neighbor))
+                distances[neighbor] = nDistance
+                heappush(pq, (nDistance, neighbor))
     return distances
 
 example = {

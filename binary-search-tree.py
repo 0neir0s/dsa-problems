@@ -52,5 +52,5 @@ def delete(root, value):
             root = root.left or root.right
         else:
             root.val = successor(root)
-            root.right = deleteAt(root.right, root.val)
+            root.right = delete(root.right, root.val)
     return root
